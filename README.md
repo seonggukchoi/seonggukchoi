@@ -3,19 +3,11 @@
 > I'm a full-stack web developer who loves beautiful codes and clean architectures.  
 > And I also love to make well a relationship with people.
 
-## I've been experienced these:
-
-- Design and develop REST API application
-- Design and optimize a relational database schema
-- Design and develop a single page web application
-- Design and develop micro-service based applications
-- Visualize data by a service log collected through ELK stack
-- Design and maintain infrastructure through the AWS
-- Build a CI/CD pipeline
-- Collaborate through GitHub
-
 ## I've been worked on these projects:
 
 **[ONDA Inc.](https://onda.me/)**  
 *PMS Business HQ. / Full-stack Senior Developer*  
 *2017. 09. 18 \~*
+
+Do you want to know more about me?  
+Visit my [Notion Page](https://www.notion.so/seonggukchoi/Eric-Choi-f20530975ef34d60a4f3f93001e52c53).
