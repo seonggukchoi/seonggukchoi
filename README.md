@@ -4,7 +4,5 @@
 > And I also love to make well a relationship with people.
 
 **[ONDA Inc.](https://onda.me/)**  
-
-*PMS Business HQ. / Full-stack Senior Developer*
-
-*2017. 09. 18 ~*
+*PMS Business HQ. / Full-stack Senior Developer*  
+*2017. 09. 18 \~*
